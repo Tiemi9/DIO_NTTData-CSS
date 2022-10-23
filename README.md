@@ -2,6 +2,9 @@
 
 > NTT Data Diversidade em Tech - DIO.me 🧐
 
+![preview](./.github/preview.png)
+![preview](./.github/preview2.png)
+![preview](./.github/preview1.png)
 
 
 Esse desafio tem a proposta da criação de uma Landing Page institucional, utilizando HTML e CSS, onde o usuário poderá visualizar a divulgação de um projeto. Dessa forma, será necessário inserir elementos e informações fundamentais de um site com base no que foi apresentado no curso: 
