@@ -39,6 +39,7 @@ body {
     margin: 16px 0 24px;
     width: 515px;
     height: 46px;
+    display: inline-block;
 }
 
 .banner button {
@@ -53,6 +54,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.21em;
     background-color: transparent;
+    cursor: pointer;
 }
 
 .banner .logo {
@@ -60,6 +62,7 @@ body {
     width: 268px;
     height: 268px;
     border-radius: 50%;
+    display: inline-block;
 }
 
 #course-content h2,#professional-challenges h2 {
@@ -76,10 +79,12 @@ body {
 #course-content p, #professional-challenges p {
     margin-top: 24px ;
     width: 792px;
+    display: inline-block;
 }
 
 .modules-list {
     padding-bottom: 90px;
+    display: inline-block;
 }
 
 .modules-list .module {
@@ -124,6 +129,7 @@ body {
     height: 141px;
     text-align: left;
     background-color: transparent;
+    position: relative;
 }
 
 #professional-challenges {
