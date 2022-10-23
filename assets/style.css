@@ -57,6 +57,11 @@ body {
     cursor: pointer;
 }
 
+.banner button:hover {
+    background-color: #31A8DD;
+    color: #ffffff;
+}
+
 .banner .logo {
     background: rgba(0, 0, 0, 0.2);
     width: 268px;
@@ -107,6 +112,10 @@ body {
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
+    cursor: pointer;
+}
+.module:hover {
+    opacity: 0.5;
 }
 
 #transform-world {
